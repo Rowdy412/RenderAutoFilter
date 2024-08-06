@@ -12,7 +12,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: Devil Movie World ᴠ4.5.0</b>"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: Mark Prime ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ? Beg to developer ◉› :<a href=https://t.me/gtxprime>@gtxPrime</a>
