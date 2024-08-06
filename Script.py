@@ -9,9 +9,9 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
 ✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/gtxPrime>@gtxPrime</a>
-✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
-✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
+✯ Cᴏᴅᴇᴅ Oɴ: MS Paint
+✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Book Shelf
+✯ Mʏ Sᴇʀᴠᴇʀ: Kitchen
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: Mark Prime ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
