@@ -15,7 +15,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: Maximus ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ? Beg to developer ◉› :<a href=https://t.me/badassbantai>@badassbantai</a>
+ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ? Ask Nicely to developer ◉› :<a href=https://t.me/badassbantai>@badassbantai</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/badassbantai>@badassbantai</a></b>"""
 
@@ -28,7 +28,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/CinemaMovieTimes</code>"""
+</code>/batch @CinemaMovieTimes</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
