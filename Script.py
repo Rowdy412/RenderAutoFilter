@@ -3,21 +3,21 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Us @XCipher </b>"""
+I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Us @CinemaMovieTimes </b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/gtxPrime>@gtxPrime</a>
-✯ Cᴏᴅᴇᴅ Oɴ: MS Paint
-✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Book Shelf
-✯ Mʏ Sᴇʀᴠᴇʀ: Kitchen
-✯ Mʏ Vᴇʀꜱɪᴏɴ: Mark Prime ᴠ4.5.0</b>"""
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/badassbantai>@badassbantai</a>
+✯ Cᴏᴅᴇᴅ Oɴ: Spotify
+✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Your Base
+✯ Mʏ Sᴇʀᴠᴇʀ: Your Heart
+✯ Mʏ Vᴇʀꜱɪᴏɴ: Maximus ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ? Beg to developer ◉› :<a href=https://t.me/gtxprime>@gtxPrime</a>
+ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ? Beg to developer ◉› :<a href=https://t.me/badassbantai>@badassbantai</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/gtxprime>@gtxprime</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/badassbantai>@badassbantai</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -28,7 +28,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/XCipher</code>"""
+</code>/batch https://t.me/CinemaMovieTimes</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
