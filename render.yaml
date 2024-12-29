@@ -23,48 +23,50 @@ services:
         sync: True
       - key: DATABASE_URL
         sync: True
+      - key: PICS
+        sync: True
       - key: WEBHOOK
         sync: True
-        - key: CHANNELS
+      - key: CHANNELS
         sync: False
-        - key: AUTH_CHANNEL
+      - key: AUTH_CHANNEL
         sync: False
-        - key: CUSTOM_FILE_CAPTION
+      - key: CUSTOM_FILE_CAPTION
         sync: False
-        - key: MAX_RIST_BTNS
+      - key: MAX_RIST_BTNS
         sync: False
-        - key: COLLECTION_NAME
+      - key: COLLECTION_NAME
         sync: True
-        - key: SUPPORT_CHAT
+      - key: SUPPORT_CHAT
         sync: True
-        - key: IMDB
+      - key: IMDB
         sync: True
-        - key: PM_IMDB
+      - key: PM_IMDB
         sync: True
-        - key: IMDB_TEMPLATE
+      - key: IMDB_TEMPLATE
         sync: True
-         - key: IMDB_DELET_TIME
+      - key: IMDB_DELET_TIME
         sync: True
-         - key: SINGLE_BUTTON
+      - key: SINGLE_BUTTON
         sync: True
-         - key: START_MESSAGE
+      - key: START_MESSAGE
         sync: True
-         - key: FORCE_SUB_TEXT
+      - key: FORCE_SUB_TEXT
         sync: True
-         - key: WELCOM_PIC
+      - key: WELCOM_PIC
         sync: True
-         - key: WELCOM_TEXT
+      - key: WELCOM_TEXT
         sync: True
-         - key: BUTTON_LOCK_TEXT
+      - key: BUTTON_LOCK_TEXT
         sync: True
-         - key: PMFILTER
+      - key: PMFILTER
         sync: True
-         - key: G_FILTER
+      - key: G_FILTER
         sync: True
-         - key: BUTTON_LOCK
+      - key: BUTTON_LOCK
         sync: True
-         - key: P_TTI_SHOW_OFF
+      - key: P_TTI_SHOW_OFF
         sync: True
-        - key: ADMINS
+      - key: ADMINS
         sync: True
              
