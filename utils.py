@@ -137,10 +137,10 @@ def list_to_str(k):
     else:
         return ' '.join(f'{elem}, ' for elem in k)
 
-__repo__ = "https://github.com/gtxprime/RenderAutoFilter"
-__version__ = "Mark Prime ᴠ4.5.0"
+__repo__ = "https://github.com/Rowdy412/RenderAutoFilter/"
+__version__ = "Maximus ᴠ4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
-__copyright__ = "Copyright (C) @gtxPrime <https://github.com/gtxPrime>"
+__copyright__ = "Copyright (C) @badassbantai <https://github.com/Rowdy412/>"
 
 async def search_gagala(text):
     usr_agent = {
